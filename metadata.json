@@ -1,0 +1,8 @@
+{
+  "name": "QLiQ Offline QRIS Payment",
+  "description": "A secure offline payment system allowing users to process QRIS transactions without an internet connection using pre-loaded tokens.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
